@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Node (common)
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
